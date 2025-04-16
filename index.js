@@ -7,6 +7,7 @@
  * GitHub: https://github.com/BLKOFFICIAL
  */
 
+require('dotenv').config();
 const { Client, GatewayIntentBits, EmbedBuilder, ActivityType, AttachmentBuilder } = require('discord.js');
 const util = require('minecraft-server-util');
 const config = require('./config.json');
@@ -462,4 +463,4 @@ app.listen(PORT, () => {
 });
 
 // Start the bot
-client.login(config.bot.token); 
+client.login(process.env.DISCORD_TOKEN); 

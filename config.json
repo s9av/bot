@@ -1,6 +1,5 @@
 {
     "bot": {
-        "token": "bottokenhere",
         "presence": {
             "status": "online",
             "activities": [{
