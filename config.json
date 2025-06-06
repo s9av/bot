@@ -3,18 +3,18 @@
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "Hypixel Server",
+                "name": "Slime's Server",
                 "type": "WATCHING"
             }]
         }
     },
     "minecraft": {
         "servers": [{
-            "name": "Hypixel",
-            "ip": "hypixel.net",
+            "name": "gang",
+            "ip": "144.34.85.217:25565",
             "port": 25565,
-            "channelId": "1361757965014798526",
-            "messageId": "1361782035923992848",
+            "channelId": "1260729352363049044",
+            "messageId": "1260729351511740499",
             "updateInterval": 30000,
             "display": {
                 "type": "banner",
