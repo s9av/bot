@@ -11,7 +11,7 @@
     "minecraft": {
         "servers": [{
             "name": "gang",
-            "ip": "144.34.85.217:25565",
+            "ip": "144.34.85.217",
             "port": 25565,
             "channelId": "1260729352363049044",
             "messageId": "1260729351511740499",
@@ -38,8 +38,7 @@
         },
         "title": "🎮 Minecraft Server Status",
         "footer": {
-            "text": "Made with ❤️ by Team BLK",
-            "iconURL": "https://github.com/BLKOFFICIAL.png"
+            "text": "Made with ❤️ by Sav",
         }
     },
     "credits": {
