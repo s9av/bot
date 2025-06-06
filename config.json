@@ -11,7 +11,7 @@
     },
     "minecraft": {
         "servers": [{
-            "name": "Slimes Shits",
+            "name": "Slimes Shit",
             "ip": "144.34.85.217",
             "port": 25565,
             "channelId": "1260729352363049044",
