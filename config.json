@@ -1,3 +1,4 @@
+
 {
     "bot": {
         "presence": {
@@ -10,7 +11,7 @@
     },
     "minecraft": {
         "servers": [{
-            "name": "gang",
+            "name": "Slimes Shits",
             "ip": "144.34.85.217",
             "port": 25565,
             "channelId": "1260729352363049044",
@@ -39,12 +40,13 @@
         "title": "🎮 Minecraft Server Status",
         "footer": {
             "text": "Made with ❤️ by Sav",
+            "iconURL": ""
         }
     },
     "credits": {
-        "author": "Team BLK",
-        "youtube": "https://www.youtube.com/@team_blk_official",
-        "discord": "adithyadev.blk",
-        "github": "https://github.com/BLKOFFICIAL"
+        "author": "Sav",
+        "youtube": "",
+        "discord": "",
+        "github": ""
     }
 }
